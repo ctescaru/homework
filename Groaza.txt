@@ -1,2 +1,6 @@
 Scary movie 10
 Chucky
+Horror Movie 1
+Horror Movie 2
+Horror Movie 3
+Horror Movie 4
